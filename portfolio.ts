@@ -373,7 +373,7 @@ export const seoData: SEODataType = {
   description: 'A passionate Full Stack Web Developer and AI/ML Developer.',
   author: 'Jared Hewlett',
   image:
-    'https://avatars.githubusercontent.com/u/137592209?s=400&u=de6343e51aae5b7bb83bcf0fcb8d0e6b4ea31d27&v=4',
+    'https://avatars.githubusercontent.com/u/47005822?s=400&u=c6f7ad5c9aa7236ff4f3f02054f86c655a376e86&v=4',
   url: 'https://jaredhwlt.netlify.app/',
   keywords: [
     'Jared',
