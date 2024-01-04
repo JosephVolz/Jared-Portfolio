@@ -12,7 +12,7 @@ import {
 } from './types/sections';
 
 export const greetings: GreetingsType = {
-  name: 'Jared Hewlett',
+  name: 'Jared Redford Hewlett',
   title: "Hi, I'm Jared",
   description:
     "I'm passionate Full Stack web developer having an experience of web applications with Spring Boot, Laravel, Django, Node.js, Ruby on Rails, Gin and expertise in high-performance computing, big data, algorithms, databases, and distributed systems. Contact Email: jaredhewlett1017@outlook.com",
@@ -352,19 +352,19 @@ export const showContactUs: boolean = true;
 
 // See object prototype on /types/section.ts page
 export const seoData: SEODataType = {
-  title: 'Jared Hewlett',
+  title: 'Jared Redford Hewlett',
   description: 'A passionate Full Stack Web Developer and AI/ML Developer.',
-  author: 'Jared Hewlett',
+  author: 'Jared Redford Hewlett',
   image:
     'https://avatars.githubusercontent.com/u/47005822?s=400&u=c6f7ad5c9aa7236ff4f3f02054f86c655a376e86&v=4',
   url: 'https://jaredhwlt.netlify.app/',
   keywords: [
     'Jared',
-    'Jared Hewlett',
+    'Jared Redford Hewlett',
     '@Jared',
     'Jared',
     'Portfolio',
-    'Jared Portfolio ',
-    'Jared Hewlett Portfolio',
+    'Jared Redford Portfolio ',
+    'Jared Redford Hewlett Portfolio',
   ],
 };

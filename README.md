@@ -103,7 +103,7 @@ If you can help us with these. Please don't hesitate to open a [pull request](ht
 
 ## Author
 
-👤 **Jared Hewlett**
+👤 **Jared Redford Hewlett**
 
 - Website: https://JaredHewlett.netlify.app/
 - Github: [@JaredHewlett](https://github.com/JaredHewlett)
