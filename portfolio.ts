@@ -15,7 +15,7 @@ export const greetings: GreetingsType = {
   name: 'Jared Hewlett',
   title: "Hi, I'm Jared",
   description:
-    "I'm passionate Full Stack web developer having an experience of web applications with Spring Boot, Laravel, Django, Node.js, Ruby on Rails, Gin and expertise in high-performance computing, big data, algorithms, databases, and distributed systems. Contact email: jaredhewlett1017@outlook.com",
+    "I'm passionate Full Stack web developer having an experience of web applications with Spring Boot, Laravel, Django, Node.js, Ruby on Rails, Gin and expertise in high-performance computing, big data, algorithms, databases, and distributed systems. Contact Email: jaredhewlett1017@outlook.com",
 };
 
 export const openSource = {
@@ -303,15 +303,9 @@ export const experience: ExperienceType[] = [
 
 export const projects: ProjectType[] = [
   {
-    name: 'Portfolio',
-    desc: 'Software Developer Portfolio Template built with react.js and next.js bootstrap that helps you showcase your work and skills as a software developer.',
-    github: 'https://github.com/mainford/Portfolio',
-    link: 'https://jaredhwlt.netlify.app',
-  },
-  {
     name: 'LastObject',
     desc: "LastObject creates the world's first reuable alternatives to single-use products. Check out our zero waste store for more sustainable shopping.",
-    link: 'https://github.com/mainford/candy-shop-storefront-nextjs',
+    link: 'https://lastobject.com',
   },
   {
     name: 'Drone Blocks',
@@ -329,19 +323,9 @@ export const projects: ProjectType[] = [
     link: 'https://www.isluxury.com/',
   },
   {
-    name: 'Lyft',
-    desc: `The website is about booking car for personal or business purpose. Any people can book a suitable car and any drivers also apply for any cars. The company just offers cars. Then, drivers and riders are free people. We used Node, React, Next.js and mongodb as a tech stack and integrated third party services like Stripe for payment and Mailjet for mail integration.`,
-    link: 'https://www.lyft.com/',
-  },
-  {
     name: 'Vrbo',
     desc: `Vrbo is a global vacation rental community with more than 2 million unique properties that seeks to connect people with the people and places they love. My main task was to develop a adding property. People could not only book a house, but also advertise their properties. I used Node, React and mongodb as a tech stack and integrated third party services like Stripe for payment and Mailjet for mail integration`,
     link: 'https://www.vrbo.com/',
-  },
-  {
-    name: 'MGM Resorts',
-    desc: `MGM Resorts International (NYSE: MGM) is an S&P 500® global gaming and entertainment company with national and international locations featuring best-in-class hotels and casinos, state-of-the-art meetings and conference spaces, incredible live and theatrical entertainment experiences, and an extensive array of restaurant, nightlife and retail offerings. I developed Casino feature with 8 months using several tech stacks and third party integrations.`,
-    link: 'https://www.mgmresorts.com/',
   },
   {
     name: 'Gopuff Food Delivery',

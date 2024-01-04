@@ -33,11 +33,6 @@ const Greetings = () => {
                     {greetings.title + ' '}
                   </h1>
                   <p className="lead text-white">{greetings.description}</p>
-                  <div className="my-3 icon-shape bg-gradient-white shadow rounded text-info">
-                    <i className="ni ni-pin-3 text-info mr-2" />
-                    Ukraine, 25028, region Kirovohradska, city Kropivnitskii,
-                    street Leonida Kadeniuka, building 9, flat 8
-                  </div>
                   {greetings.resumeLink && (
                     <div className="btn-wrapper my-4">
                       <Button
