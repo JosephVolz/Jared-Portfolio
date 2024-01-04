@@ -26,7 +26,8 @@ const GithubProfileCard = ({ avatar_url, bio, location }: GithubUserType) => {
               <p className="text-white mt-3">{bio}</p>
               <div className="my-3 icon-shape bg-gradient-white shadow rounded text-info">
                 <i className="ni ni-pin-3 text-info mr-2" />
-                {location}
+                Ukraine, 25028, region Kirovohradska, city Kropivnitskii, street
+                Leonida Kadeniuka, building 9, flat 8
               </div>
               <SocialLinks />
             </Col>

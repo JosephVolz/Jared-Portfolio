@@ -15,7 +15,7 @@ export const greetings: GreetingsType = {
   name: 'Jared Hewlett',
   title: "Hi, I'm Jared",
   description:
-    "I'm passionate Full Stack web developer having an experience of web applications with Spring Boot, Laravel, Django, Node.js, Ruby on Rails, Gin and expertise in high-performance computing, big data, algorithms, databases, and distributed systems.",
+    "I'm passionate Full Stack web developer having an experience of web applications with Spring Boot, Laravel, Django, Node.js, Ruby on Rails, Gin and expertise in high-performance computing, big data, algorithms, databases, and distributed systems. Contact email: jaredhewlett1017@outlook.com",
 };
 
 export const openSource = {
@@ -25,7 +25,6 @@ export const openSource = {
 export const contact = {};
 
 export const socialLinks: SocialLinksType = {
-  linkedin: 'https://www.linkedin.com/in/jared-h-08030b1',
   github: 'https://github.com/mainford',
 };
 
