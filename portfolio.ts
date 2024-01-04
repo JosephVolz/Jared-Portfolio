@@ -253,7 +253,7 @@ export const educationInfo: EducationType[] = [
   {
     schoolName: 'Kyiv National University of Technologies and Design',
     subHeader: 'Master of Technology, Computer Engineering',
-    duration: 'May 2005 - Feb 2010',
+    duration: 'May 2008 - Feb 2012',
     grade: 'Grade A',
   },
 ];
@@ -263,7 +263,7 @@ export const experience: ExperienceType[] = [
     role: 'Team Lead',
     company: 'Exadel',
     companyLogo: '/img/icons/common/exadel.jpg',
-    date: 'Feb 2018 – Present',
+    date: 'Feb 2020 – Present',
     descBullets: [
       'Developed new charts and features and improved architecture and performance. Wrote unit  and e2e tests. Used React, D3, Styled Components, and Cypress.',
       'Handled the complete architecture and development of the UI and connected it to the API. Added unit and e2e tests. Used TypeScript, React, D3, and Chakra UI',
@@ -275,7 +275,7 @@ export const experience: ExperienceType[] = [
     role: 'Senior Full Stack Developer',
     company: 'inVerita',
     companyLogo: '/img/icons/common/inverita.jpg',
-    date: 'Jun 2015 – Apr 2018',
+    date: 'Jun 2018 – Apr 2020',
     descBullets: [
       'Implemented the back-end of a Java RESTful API of Knod a review sharing/social networking app (http://staging.knod.com) with unit tests, integration tests, CD, CI with DynamoDB, and MySQL as data storage.',
       'Deployed on AWS stack with auto-scaling, load-balancing, with continuous integration Jenkins, and CloudWatch monitoring.',
@@ -288,7 +288,7 @@ export const experience: ExperienceType[] = [
     role: 'Full Stack Developer',
     company: 'SysIQ, Inc.',
     companyLogo: '/img/icons/common/sysiq.jpg',
-    date: 'Feb 2010 - Jun 2015',
+    date: 'Feb 2012 - Jun 2018',
     descBullets: [
       'Specialized in middle-tier applications for the web—implementing patterns like MVC, ORM, and OOP with the goal of making applications more robust, scalable, and easier to maintain.',
       'Contributed to open-source PHP projects: CakePHP and Zend Framework.',
